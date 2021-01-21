@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
@@ -292,3 +293,5 @@ LOCATION:Virtual
 DESCRIPTION:https://www.conf42.com
 END:VEVENT
 END:VCALENDAR
+=======
+>>>>>>> b4350324c4029b524c89d3eb38d549d030087432

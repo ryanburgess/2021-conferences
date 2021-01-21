@@ -1,9 +1,58 @@
 [
-  
+  {
+    "title": "cdCon",
+    "url": "https://events.linuxfoundation.org/cdcon/",
+    "where": "Virtual",
+    "dateFrom": "06-23",
+    "dateTo": "06-24",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": ""
+  },
+  {
+    "title": "TheJam.dev",
+    "url": "https://events.linuxfoundation.org/cdcon/",
+    "where": "Virtual",
+    "dateFrom": "01-28",
+    "dateTo": "01-29",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": ""
+  },
+  {
+    "title": "TestJS Summit",
+    "url": "https://testjssummit.com/",
+    "where": "Virtual",
+    "dateFrom": "01-28",
+    "dateTo": "01-29",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": ""
+  },
+  {
+    "name":"ct webdev",
+    "url":"https://ctwebdev.de",
+    "where":"Virtual",
+    "dateFrom":"02-09",
+    "dateTo":"02-10",
+    "month":"February",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"JSworld",
+    "url":"http://www.jsworldconference.com",
+    "where":"Virtual",
+    "dateFrom":"02-22",
+    "dateTo":"02-27",
+    "month":"February",
+    "submissionDeadline":"",
+    "country":""
+  },
   {
     "name":"Vue.js Amsterdam",
     "url":"http://www.vuejs.amsterdam",
-    "where":"Virtualt",
+    "where":"Virtual",
     "dateFrom":"02-26",
     "dateTo":"02-27",
     "month":"February",

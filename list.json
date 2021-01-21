@@ -28,5 +28,15 @@
     "month": "January",
     "submissionDeadline": "",
     "country": ""
+  },
+  {
+    "title": "VS Code Day",
+    "url": "https://code.visualstudio.com/vscode-day",
+    "where": "Virtual",
+    "dateFrom": "01-27",
+    "dateTo": "",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": ""
   }
 ]

@@ -10,10 +10,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2019-
 
 | Conference | Date | Where |
 |------------|------|-------|
-| [TheJam.dev](https://events.linuxfoundation.org/cdcon/) | 28 - 29 January, 2021 |  Virtual |
-| [TestJS Summit](https://testjssummit.com/) | 28 - 29 January, 2021 |  Virtual |
-| [undefined](https://ctwebdev.de) | 9 - 10 February, 2021 |  Virtual |
-| [cdCon](https://events.linuxfoundation.org/cdcon/) | 23 - 24 June, 2021 |  Virtual |
+| [undefined](http://www.vuejs.amsterdam) | 26 - 27 February, 2021 |  Virtualt |
 
 ## Contributing
 1. Fork it

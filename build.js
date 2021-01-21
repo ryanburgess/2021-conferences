@@ -13,7 +13,7 @@ A list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-c
 
 _**You can also add all conferences directly into your calendar by importing the \`.ics\` file into Google Calendar etc.**_
 
-_**The \`.ics\` file can be downloaded [here](https://rawgit.com/ryanburgess/${year}-conferences/master/${year}-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
+_**The \`.ics\` file can be downloaded [here](https://rawgit.com/ryanburgess/${year}-conferences/main/${year}-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 `;
 // create contributing instructions
 const contribute =  `

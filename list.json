@@ -30,6 +30,16 @@
     "country": ""
   },
   {
+    "title": "VS Code Day",
+    "url": "https://code.visualstudio.com/vscode-day",
+    "where": "Virtual",
+    "dateFrom": "01-27",
+    "dateTo": "01-27",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": ""
+  },
+  {
     "title": "ct webdev",
     "url": "https://ctwebdev.de",
     "where": "Virtual",

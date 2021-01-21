@@ -10,6 +10,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2021-
 
 | Conference | Date | Where |
 |------------|------|-------|
+| [VS Code Day](https://code.visualstudio.com/vscode-day) | 27 January, 2021 |  Virtual |
 | [TheJam.dev](https://events.linuxfoundation.org/cdcon/) | 28 - 29 January, 2021 |  Virtual |
 | [TestJS Summit](https://testjssummit.com/) | 28 - 29 January, 2021 |  Virtual |
 | [ct webdev](https://ctwebdev.de) | 9 - 10 February, 2021 |  Virtual |

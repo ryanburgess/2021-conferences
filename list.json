@@ -28,5 +28,255 @@
     "month": "January",
     "submissionDeadline": "",
     "country": ""
+  },
+  {
+    "name":"c't <webdev>",
+    "url":"https://ctwebdev.de",
+    "where":"Virtual",
+    "dateFrom":"02-09",
+    "dateTo":"02-10",
+    "month":"February",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"JSworld",
+    "url":"http://www.jsworldconference.com",
+    "where":"Virtual",
+    "dateFrom":"02-22",
+    "dateTo":"02-27",
+    "month":"February",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"Vue.js Amsterdam",
+    "url":"http://www.vuejs.amsterdam",
+    "where":"Virtualt",
+    "dateFrom":"02-26",
+    "dateTo":"02-27",
+    "month":"February",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"ReactiveConf",
+    "url":"https://reactiveconf.com",
+    "where":"Prague, Czech Republic",
+    "dateFrom":"03-08",
+    "dateTo":"03-09",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":"CR"
+  },
+  {
+    "name":"DevOps.js Conference",
+    "url":"https://www.devopsjsconf.com/",
+    "where":"Virtual",
+    "dateFrom":"03-10",
+    "dateTo":"03-11",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"React Days",
+    "url":"https://javascript-days.de/react",
+    "where":"Munich, Germany",
+    "dateFrom":"03-22",
+    "dateTo":"03-25",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":"DE"
+  },
+  {
+    "name":"JavsScript, Angular, React, HTML & CSS Days",
+    "url":"https://javascript-days.de/muenchen",
+    "where":"Virtual",
+    "dateFrom":"03-22",
+    "dateTo":"03-25",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"Angular Days",
+    "url":"https://javascript-days.de/angular",
+    "where":"Munich, Germany",
+    "dateFrom":"03-22",
+    "dateTo":"03-25",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":"DE"
+  },
+  {
+    "name":"JavaScript Days",
+    "url":"https://javascript-days.de/muenchen",
+    "where":"Munich, Germany",
+    "dateFrom":"03-22",
+    "dateTo":"03-25",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":"DE"
+  },
+  {
+    "name":"CityJS",
+    "url":"https://cityjsconf.org",
+    "where":"London, U.K.",
+    "dateFrom":"03-24",
+    "dateTo":"03-26",
+    "month":"March",
+    "submissionDeadline":"",
+    "country":"UK"
+  },
+  {
+    "name":"React Summit Remote Edition",
+    "url":"https://remote.reactsummit.com/",
+    "where":"Virtual",
+    "dateFrom":"04-14",
+    "dateTo":"04-16",
+    "month":"April",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"Vueconf.US",
+    "url":"http://vueconf.us",
+    "where":"Virtual",
+    "dateFrom":"04-14",
+    "dateTo":"04-14",
+    "month":"April",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"JSHeroes",
+    "url":"https://jsheroes.io",
+    "where":"Cluj-Napoca, Romania",
+    "dateFrom":"04-15",
+    "dateTo":"04-16",
+    "month":"April",
+    "submissionDeadline":"",
+    "country":"RO"
+  },
+  {
+    "name":"International JavaScript Conference London",
+    "url":"https://javascript-conference.com/london",
+    "where":"London, U.K.",
+    "dateFrom":"04-21",
+    "dateTo":"04-23",
+    "month":"April",
+    "submissionDeadline":"",
+    "country":"UK"
+  },
+  {
+    "name":"Strapi Conference",
+    "url":"https://www.strapi.io/strapi-conf-2021",
+    "where":"Virtual",
+    "dateFrom":"04-22",
+    "dateTo":"04-22",
+    "month":"April",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"Global Scope",
+    "url":"https://www.webdirections.org/globalscope",
+    "where":"Virtual",
+    "dateFrom":"05-04",
+    "dateTo":"06-25",
+    "month":"June",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"JSNation Live",
+    "url":"https://live.jsnation.com/",
+    "where":"Virtual",
+    "dateFrom":"06-06",
+    "dateTo":"06-06",
+    "month":"June",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"LvivJS",
+    "url":"https://lvivjs.org.ua",
+    "where":"Lviv, Ukraine・June 6#javascript・@LvivJS・Code Of Conduct",
+    "dateFrom":"06-06",
+    "dateTo":"06-06",
+    "month":"June",
+    "submissionDeadline":"",
+    "country":""
+  },
+  {
+    "name":"React Day Norway",
+    "url":"https://reactnorway.com",
+    "where":"Larvik, Norway",
+    "dateFrom":"06-18",
+    "dateTo":"06-18",
+    "month":"June",
+    "submissionDeadline":"",
+    "country":"NO"
+  },
+  {
+    "name":"HalfStack Newquay",
+    "url":"https://halfstackconf.com/newquay/",
+    "where":"Newquay, U.K.",
+    "dateFrom":"07-02",
+    "dateTo":"07-02",
+    "month":"July",
+    "submissionDeadline":"",
+    "country":"UK"
+  },
+  {
+    "name":"JSCAMP",
+    "url":"https://jscamp.tech",
+    "where":"Barcelona, Spain",
+    "dateFrom":"07-15",
+    "dateTo":"07-16",
+    "month":"July",
+    "submissionDeadline":"",
+    "country":"ES"
+  },
+  {
+    "name":"JavaScript and Friends",
+    "url":"https://www.javascriptandfriends.com",
+    "where":"Columbus, OH",
+    "dateFrom":"08-20",
+    "dateTo":"08-20",
+    "month":"August",
+    "submissionDeadline":"",
+    "country":"US"
+  },
+  {
+    "name":"React Day New York",
+    "url":"https://reactnewyork.com",
+    "where":"Brooklyn, NY",
+    "dateFrom":"09-10",
+    "dateTo":"09-10",
+    "month":"September",
+    "submissionDeadline":"",
+    "country":"US"
+  },
+  {
+    "name":"Nordic.js",
+    "url":"https://nordicjs.com",
+    "where":"Stockholm, Sweden",
+    "dateFrom":"10-07",
+    "dateTo":"10-08",
+    "month":"October",
+    "submissionDeadline":"",
+    "country":"SE"
+  },
+  {
+    "name":"Conf42: JavaScript",
+    "url":"https://www.conf42.com",
+    "where":"Virtual",
+    "dateFrom":"10-28",
+    "dateTo":"10-28",
+    "month":"October",
+    "submissionDeadline":"",
+    "country":""
   }
 ]

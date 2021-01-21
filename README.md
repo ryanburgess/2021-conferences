@@ -4,7 +4,7 @@ A list of [2020 conferences](https://github.com/ryanburgess/2020-conferences).
 
 _**You can also add all conferences directly into your calendar by importing the `.ics` file into Google Calendar etc.**_
 
-_**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2020-conferences/master/2020-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
+_**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2021-conferences/master/2021-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 
 # Conference List
 

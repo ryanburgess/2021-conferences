@@ -1,5 +1,5 @@
 {
-  "name": "2021-conferences",
+  "title": "2021-conferences",
   "version": "0.0.0",
   "description": "A list of 2021 web development conferences",
   "main": "build.js",

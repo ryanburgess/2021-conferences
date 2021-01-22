@@ -200,10 +200,20 @@
     "country": ""
   },
   {
+    "title": "Ng Conf",
+    "url": "https://www.2021.ng-conf.org/",
+    "where": "Virtual",
+    "dateFrom": "04-22",
+    "dateTo": "04-23",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": ""
+  },
+  {
     "title": "Global Scope",
     "url": "https://www.webdirections.org/globalscope",
     "where": "Virtual",
-    "dateFrom": "05-04",
+    "dateFrom": "06-04",
     "dateTo": "06-25",
     "month": "June",
     "submissionDeadline": "",

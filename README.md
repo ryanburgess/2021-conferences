@@ -29,7 +29,8 @@ _**The `.ics` file can be downloaded [here](https://cdn.jsdelivr.net/gh/ryanburg
 | [JSHeroes](https://jsheroes.io) | 15 - 16 April, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ro.svg" height="16" alt="RO flag icon" /> Cluj-Napoca, Romania |
 | [International JavaScript Conference London](https://javascript-conference.com/london) | 21 - 23 April, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> London, U.K. |
 | [Strapi Conference](https://www.strapi.io/strapi-conf-2021) | 22 - 22 April, 2021 |  Virtual |
-| [Global Scope](https://www.webdirections.org/globalscope) | 4 May - 25 June, 2021 |  Virtual |
+| [Ng Conf](https://www.2021.ng-conf.org/) | 22 - 23 April, 2021 |  Virtual |
+| [Global Scope](https://www.webdirections.org/globalscope) | 4 - 25 June, 2021 |  Virtual |
 | [JSNation Live](https://live.jsnation.com/) | 6 - 6 June, 2021 |  Virtual |
 | [LvivJS](https://lvivjs.org.ua) | 6 - 6 June, 2021 |  Lviv, Ukraine |
 | [Lead Dev Manager of Managers](https://managerofmanagerslondon2020.theleaddeveloper.com/) | 10 - 10 June, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> London, UK |

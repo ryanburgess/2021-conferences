@@ -80,6 +80,16 @@
     "country": "CZ"
   },
   {
+    "title": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/london/",
+    "where": "London, UK",
+    "dateFrom": "04-12",
+    "dateTo": "04-13",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "GB"
+  },
+  {
     "title": "DevOps.js Conference",
     "url": "https://www.devopsjsconf.com/",
     "where": "Virtual",
@@ -212,12 +222,22 @@
   {
     "title": "LvivJS",
     "url": "https://lvivjs.org.ua",
-    "where": "Lviv, Ukraine・June 6#javascript・@LvivJS・Code Of Conduct",
+    "where": "Lviv, Ukraine",
     "dateFrom": "06-06",
     "dateTo": "06-06",
     "month": "June",
     "submissionDeadline": "",
     "country": ""
+  },
+  {
+    "title": "Lead Dev Manager of Managers",
+    "url": "https://managerofmanagerslondon2020.theleaddeveloper.com/",
+    "where": "London, UK",
+    "dateFrom": "06-10",
+    "dateTo": "06-10",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "GB"
   },
   {
     "title": "React Day Norway",
@@ -228,6 +248,16 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "NO"
+  },
+  {
+    "title": "CSS Day 2021 + dsgnday",
+    "url": "https://cssday.nl/",
+    "where": "Amsterdam, NE",
+    "dateFrom": "06-10",
+    "dateTo": "06-11",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "NL"
   },
   {
     "title": "HalfStack Newquay",

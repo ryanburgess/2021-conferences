@@ -111,8 +111,8 @@ Array.prototype.contains = function(obj) {
 
 // create list of conferences
 for (const conference of obj) {
-  if(!items.contains(conference.title)){
-    items.push(conference.title);
+  if(!items.contains(conference.name)){
+    items.push(conference.name);
     const country = String(conference.country).trim();
     const code = String(countryList.getCode(country.replace('USA', 'United States')) || country).toLowerCase();
     const flag = code.length === 2 ? `<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/${code}.svg" height="16" alt="${conference.country} flag icon" />` : '';
@@ -121,7 +121,7 @@ for (const conference of obj) {
     let humanReadableDate = humanDate( `${conference.dateFrom}`, `${conference.dateTo}` );
 
     rows.push([
-      `[${conference.title}](${conference.url})`,
+      `[${conference.name}](${conference.url})`,
       humanReadableDate,
       `${flag} ${conference.where}`,
     ]);

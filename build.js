@@ -111,17 +111,17 @@ Array.prototype.contains = function(obj) {
 
 // create list of conferences
 for (const conference of obj) {
-  if(!items.contains(conference.name)){
-    items.push(conference.name);
+  if(!items.contains(conference.title)){
+    items.push(conference.title);
     const country = String(conference.country).trim();
     const code = String(countryList.getCode(country.replace('USA', 'United States')) || country).toLowerCase();
     const flag = code.length === 2 ? `<img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/${code}.svg" height="16" alt="${conference.country} flag icon" />` : '';
-    if( conference.dateFrom.length !== 5 ) process.exit( console.log(`${conference.name} - dateFrom: ${messages.fail.char}`) );
+    if( conference.dateFrom.length !== 5 ) process.exit( console.log(`${conference.title} - dateFrom: ${messages.fail.char}`) );
     if( conference.dateTo.length !== 0 && conference.dateTo.length !== 5 ) process.exit( console.log(`${conference.title} - dateTo: ${messages.fail.char}`) );
     let humanReadableDate = humanDate( `${conference.dateFrom}`, `${conference.dateTo}` );
 
     rows.push([
-      `[${conference.name}](${conference.url})`,
+      `[${conference.title}](${conference.url})`,
       humanReadableDate,
       `${flag} ${conference.where}`,
     ]);

@@ -480,6 +480,16 @@
      "country":""
   },
   {
+      "title":"Tech (K)now Day",
+      "url":"https://www.techknowday.com/",
+      "where":"Virtual",
+      "dateFrom":"03-08",
+      "dateTo":"03-08",
+      "month":"March",
+      "submissionDeadline":"",
+      "country":""
+   },
+  {
      "title":"DevOps.js Conference",
      "url":"https://www.devopsjsconf.com/",
      "where":"Virtual",

@@ -58,6 +58,7 @@ _**The `.ics` file can be downloaded [here](https://cdn.jsdelivr.net/gh/ryanburg
 | [Devopsdays Birmingham](https://devopsdays.org/events/2021-birmingham/welcome/) | 4 - 5 March, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> Birmingham, U.K. |
 | [ReactiveConf](https://reactiveconf.com) | 8 - 9 March, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/cr.svg" height="16" alt="CR flag icon" /> Prague, Czech Republic |
 | [Women in Data Science (WiDS) Worldwide](https://www.widsconference.org/conference.html) | 8 - 8 March, 2021 |  Virtual |
+| [Tech (K)now Day](https://www.techknowday.com/) | 8 - 8 March, 2021 |  Virtual |
 | [DevOps.js Conference](https://www.devopsjsconf.com/) | 10 - 11 March, 2021 |  Virtual |
 | [axe-con](http://deque.com/axe-con) | 10 - 11 March, 2021 |  Virtual |
 | [Software Architecture Summit](https://software-architecture-summit.de) | 10 - 12 March, 2021 |  Virtual |

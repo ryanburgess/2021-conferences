@@ -66,6 +66,7 @@ _**The `.ics` file can be downloaded [here](https://cdn.jsdelivr.net/gh/ryanburg
 | [Node.TLV](https://www.nodetlv.com) | 10 - 10 March, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/il.svg" height="16" alt="IL flag icon" /> Tel Aviv, Israel |
 | [cssday Digital Edition](https://2021.cssday.it) | 11 - 11 March, 2021 |  Virtual |
 | [Pharma AI, IoT & Blockchain](https://www.virtueinsight.com/pharma/4th-Annual-Pharma-AI-IoT--Blockchain-2021-Virtual-Conference/) | 11 - 11 March, 2021 |  Virtual |
+| [Evevate Spring Summit](https://elevate.platohq.com/) | 11 - 11 March, 2021 |  Virtual |
 | [Mind the Product](https://www.mindtheproduct.com/mtpcon/singapore) | 18 - 19 March, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/sg.svg" height="16" alt="SG flag icon" /> Singapore, Singapore |
 | [SKILup Day: Value Stream Management](https://devopsinstitute.com/vsm-2021) | 18 - 18 March, 2021 |  Virtual |
 | [Canvas](https://www.canvasconference.co.uk) | 18 - 18 March, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> Birmingham, U.K. |

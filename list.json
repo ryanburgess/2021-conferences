@@ -1888,5 +1888,15 @@
      "month":"September",
      "submissionDeadline":"",
      "country":"US"
+  },
+  {
+     "title":"Evevate Spring Summit",
+     "url":"https://elevate.platohq.com/",
+     "where":"Virtual",
+     "dateFrom":"03-11",
+     "dateTo":"03-11",
+     "month":"March",
+     "submissionDeadline":"",
+     "country":""
   }
 ]

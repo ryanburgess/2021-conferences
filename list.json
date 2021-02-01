@@ -1868,5 +1868,15 @@
      "month":"November",
      "submissionDeadline":"",
      "country":""
+  },
+  {
+     "title":"Render ATL",
+     "url":"https://www.renderatl.com/",
+     "where":"Atlanta, GA",
+     "dateFrom":"09-13",
+     "dateTo":"09-15",
+     "month":"September",
+     "submissionDeadline":"",
+     "country":"US"
   }
 ]

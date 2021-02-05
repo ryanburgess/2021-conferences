@@ -1898,5 +1898,15 @@
      "month":"March",
      "submissionDeadline":"",
      "country":""
+  },
+  {
+     "title":"OpenJS World",
+     "url":"https://openjsf.org/openjs-world-2021/",
+     "where":"Virtual",
+     "dateFrom":"06-09",
+     "dateTo":"06-09",
+     "month":"June",
+     "submissionDeadline":"",
+     "country":""
   }
 ]

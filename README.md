@@ -139,6 +139,7 @@ _**The `.ics` file can be downloaded [here](https://cdn.jsdelivr.net/gh/ryanburg
 | [webinale](https://webinale.de/en) | 7 - 11 June, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> Berlin, Germany |
 | [Lead Dev London](https://london2020.theleaddeveloper.com/) | 8 - 9 June, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> London, U.K. |
 | [ODSC Europe Virtual Conference](https://odsc.com/europe) | 8 - 10 June, 2021 |  Virtual |
+| [OpenJS World](https://openjsf.org/openjs-world-2021/) | 9 - 9 June, 2021 |  Virtual |
 | [CSS Day](https://cssday.nl) | 10 - 11 June, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/nl.svg" height="16" alt="NL flag icon" /> Amsterdam, Netherlands |
 | [DevOps Conference Hybrid Edition](https://devopscon.io/berlin) | 14 - 17 June, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/de.svg" height="16" alt="DE flag icon" /> Berlin, Germany |
 | [stackconf online](https://stackconf.eu) | 15 - 16 June, 2021 |  Virtual |

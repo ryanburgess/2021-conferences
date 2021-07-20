@@ -185,7 +185,6 @@ _**The `.ics` file can be downloaded [here](https://cdn.jsdelivr.net/gh/ryanburg
 | [Conf42: SRE](https://www.conf42.com) | 30 - 30 September, 2021 |  Virtual |
 | [Strange Loop](https://thestrangeloop.com) | 30 September - 2 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> St. Louis, MO |
 | [SwiftLeeds](https://www.swiftleeds.co.uk) | 7 - 7 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/gb.svg" height="16" alt="GB flag icon" /> Leeds, U.K. |
-| [Nordic.js](https://nordicjs.com) | 7 - 8 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/se.svg" height="16" alt="SE flag icon" /> Stockholm, Sweden |
 | [Pacific NW Software Quality Conference](https://www.pnsqc.org) | 11 - 13 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/us.svg" height="16" alt="US flag icon" /> Portland, OR |
 | [HackConf](https://www.hackconf.bg) | 22 - 24 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/bg.svg" height="16" alt="BG flag icon" /> Sofia, Bulgaria |
 | [ITNEXT Summit](https://www.itnextsummit.com) | 27 - 27 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/nl.svg" height="16" alt="NL flag icon" /> Amsterdam, Netherlands |
@@ -195,6 +194,7 @@ _**The `.ics` file can be downloaded [here](https://cdn.jsdelivr.net/gh/ryanburg
 | [EuroSTAR Software Testing Conference](https://conference.eurostarsoftwaretesting.com/) | 1 - 4 November, 2021 |  Virtual |
 | [CanUX](https://canux.io) | 4 - 7 November, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/ca.svg" height="16" alt="CA flag icon" /> Ottawa, Canada |
 | [Tech Up For Women](https://techupforwomen.com/event-details) | 16 - 16 November, 2021 |  Virtual |
+| [Nordic.js](https://nordicjs.com) | 5 - 7 October, 2021 | <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/flags/4x3/se.svg" height="16" alt="SE flag icon" /> Stockholm, Sweden |
 
 ## Contributing
 1. Fork it
